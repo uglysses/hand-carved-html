@@ -1,0 +1,116 @@
+/*
+	This is a CSS style sheet
+	name: Kevin Brash
+	student #: A00589945
+	date: June 13, 2012
+*/
+
+
+
+
+
+h1 {color:black;
+	}
+
+body{
+	background-color:dimgrey;
+	}
+	
+#container{
+
+	width:640px;
+	margin-top:5px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+#home{
+	position:relative;
+	
+	float:left;
+	width:320px;
+	height:320px;
+	background-color:#8c5340;
+	}
+#home:hover{
+	background-image:url('images/homeback.png');
+	
+	}	
+#about{
+	position:relative;
+	float:left;
+	width:320px;
+	height:320px;
+	background-color:#8b4c3a;
+	}
+#about:hover{
+	background-image:url('images/aboutback.png');
+	width:320px;
+	height:320px;
+	}
+#gallery{
+	position:relative;
+	float:left;
+	width:320px;
+	height:320px;
+	background-color:#905044;
+	}
+#gallery:hover{
+	background-image:url('images/galleryback.png');
+	width:320px;
+	height:320px;
+	}
+#musings{
+	position:relative;
+	float:left;
+	width:320px;
+	height:320px;
+	background-color:#e68b6c;
+	}
+#musings:hover{
+	background-image:url('images/musingsback.png');
+	width:320px;
+	height:320px;
+	}
+#layout{
+	
+	}
+#homelogo{
+	position:relative;
+	float:left;
+	width:160px;
+	height:160px;
+	text-align:center;
+	}
+#homelogo:hover{
+	background-image:url("images/homeicon.png");
+	position:relative;
+	float:left;
+	width:160px;
+	height:160px;
+	}
+#header{
+	text-align:center;
+	position:relative;
+	float:left;
+	width:480px;
+	height:160px;
+	
+	
+	}
+#content{
+	margin-left:160px;
+	float:left;
+	padding-left:15px;
+
+	}
+#contentspace{
+	float:right;
+	width:165px;
+	height:100px;
+	}
+#gallerycontent{
+	margin-left:160px;
+	float:left;
+	padding:0px;
+	}
+	
