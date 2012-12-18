@@ -1,10 +1,46 @@
-/*
-	This is a CSS style sheet
-	name: Kevin Brash
-	student #: A00589945
-	date: June 13, 2012
-*/
 
+
+#gui{
+	position:absolute;
+	background-image:url('images/facebit4.png');
+	height:640px;
+	width:640px;
+	}
+
+
+#top{
+	position:absolute;
+	
+	background-image:url('images/facebit8.png');
+	height:640px;
+	width:640px;
+	}
+
+
+
+	
+#bottom{
+position:absolute;
+    
+	background-image:url('images/facebit16.png');
+	height:640px;
+	width:640px;
+	}
+	
+
+#middle{
+	
+	
+	}
+	
+#blank{
+	position:relative;
+	float:left;
+	width:40px;
+	height:40px;
+	opacity:0;
+	}
+	
 
 
 
