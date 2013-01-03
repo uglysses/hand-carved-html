@@ -2,7 +2,7 @@
 
 #gui{
 	position:absolute;
-	background-image:url('images/facebit4.png');
+	background-image:url('images/facebit2.png');
 	height:640px;
 	width:640px;
 	}
@@ -11,7 +11,7 @@
 #top{
 	position:absolute;
 	
-	background-image:url('images/facebit8.png');
+	background-image:url('images/facebit4.png');
 	height:640px;
 	width:640px;
 	}
@@ -22,7 +22,7 @@
 #bottom{
 position:absolute;
     
-	background-image:url('images/facebit16.png');
+	background-image:url('images/facebit8.png');
 	height:640px;
 	width:640px;
 	}
